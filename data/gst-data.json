@@ -1,622 +1,1088 @@
 {
-  "last_updated": "2025-10-26T17:01:57.796Z",
+  "last_updated": "2025-10-26T17:19:01.290Z",
   "items": [
     {
-      "item_category": "4",
-      "keywords": [
-        "4"
-      ],
-      "gst_percent": 50
-    },
-    {
       "item_category": "Butter, Ghee, Cheese & Dairy Spreads",
+      "gst_percent": 12,
       "keywords": [
-        "butter, ghee, cheese & dairy spreads"
-      ],
-      "gst_percent": 12
+        "butter, ghee, cheese & dairy spreads",
+        "butter",
+        "ghee",
+        "cheese",
+        "dairy",
+        "spreads",
+        "pizza",
+        "burger",
+        "biryani",
+        "cake",
+        "bread",
+        "chicken",
+        "dal",
+        "rice",
+        "milkshake",
+        "chocolate",
+        "vanilla",
+        "strawberry",
+        "smoothie"
+      ]
     },
     {
       "item_category": "Pre-packaged Namkeens, Bhujia & Mixtures",
+      "gst_percent": 12,
       "keywords": [
-        "pre-packaged namkeens, bhujia & mixtures"
-      ],
-      "gst_percent": 12
+        "pre-packaged namkeens, bhujia & mixtures",
+        "prepackaged",
+        "namkeens",
+        "bhujia",
+        "mixtures"
+      ]
     },
     {
       "item_category": "Utensils",
+      "gst_percent": 12,
       "keywords": [
         "utensils"
-      ],
-      "gst_percent": 12
+      ]
     },
     {
       "item_category": "Feeding Bottles, Napkins for Babies & Clinical Diapers",
+      "gst_percent": 12,
       "keywords": [
-        "feeding bottles, napkins for babies & clinical diapers"
-      ],
-      "gst_percent": 12
+        "feeding bottles, napkins for babies & clinical diapers",
+        "feeding",
+        "bottles",
+        "napkins",
+        "for",
+        "babies",
+        "clinical",
+        "diapers"
+      ]
     },
     {
       "item_category": "Sewing Machines & Parts",
+      "gst_percent": 12,
       "keywords": [
-        "sewing machines & parts"
-      ],
-      "gst_percent": 12
+        "sewing machines & parts",
+        "sewing",
+        "machines",
+        "parts"
+      ]
     },
     {
       "item_category": "Tractors",
+      "gst_percent": 12,
       "keywords": [
         "tractors"
-      ],
-      "gst_percent": 12
+      ]
     },
     {
       "item_category": "Specified 12 bio-pesticides and micro-nutrients",
+      "gst_percent": 12,
       "keywords": [
-        "specified 12 bio-pesticides and micro-nutrients"
-      ],
-      "gst_percent": 12
+        "specified 12 bio-pesticides and micro-nutrients",
+        "specified",
+        "12",
+        "biopesticides",
+        "and",
+        "micronutrients"
+      ]
     },
     {
       "item_category": "Drip Irrigation System & Sprinklers",
+      "gst_percent": 12,
       "keywords": [
-        "drip irrigation system & sprinklers"
-      ],
-      "gst_percent": 12
+        "drip irrigation system & sprinklers",
+        "drip",
+        "irrigation",
+        "system",
+        "sprinklers"
+      ]
     },
     {
       "item_category": "Agricultural, Horticultural or Forestry Machines (Soil Preparation, Cultivation, etc.)",
+      "gst_percent": 12,
       "keywords": [
-        "agricultural, horticultural or forestry machines (soil preparation, cultivation, etc.)"
-      ],
-      "gst_percent": 12
+        "agricultural, horticultural or forestry machines (soil preparation, cultivation, etc.)",
+        "agricultural",
+        "horticultural",
+        "or",
+        "forestry",
+        "machines",
+        "soil",
+        "preparation",
+        "cultivation",
+        "etc"
+      ]
     },
     {
       "item_category": "Thermometer",
+      "gst_percent": 18,
       "keywords": [
         "thermometer"
-      ],
-      "gst_percent": 18
+      ]
     },
     {
       "item_category": "Medical Grade Oxygen",
+      "gst_percent": 12,
       "keywords": [
-        "medical grade oxygen"
-      ],
-      "gst_percent": 12
+        "medical grade oxygen",
+        "medical",
+        "grade",
+        "oxygen"
+      ]
     },
     {
       "item_category": "All Diagnostic Kits & Reagents",
+      "gst_percent": 12,
       "keywords": [
-        "all diagnostic kits & reagents"
-      ],
-      "gst_percent": 12
+        "all diagnostic kits & reagents",
+        "all",
+        "diagnostic",
+        "kits",
+        "reagents"
+      ]
     },
     {
       "item_category": "Glucometer & Test Strips",
+      "gst_percent": 12,
       "keywords": [
-        "glucometer & test strips"
-      ],
-      "gst_percent": 12
+        "glucometer & test strips",
+        "glucometer",
+        "test",
+        "strips"
+      ]
     },
     {
       "item_category": "Corrective Spectacles",
+      "gst_percent": 12,
       "keywords": [
-        "corrective spectacles"
-      ],
-      "gst_percent": 12
+        "corrective spectacles",
+        "corrective",
+        "spectacles"
+      ]
     },
     {
       "item_category": "33 drugs and medicines, listed in the press release",
+      "gst_percent": 12,
       "keywords": [
-        "33 drugs and medicines, listed in the press release"
-      ],
-      "gst_percent": 12
+        "33 drugs and medicines, listed in the press release",
+        "33",
+        "drugs",
+        "and",
+        "medicines",
+        "listed",
+        "in",
+        "the",
+        "press",
+        "release"
+      ]
     },
     {
       "item_category": "Agalsidase Beta, Imiglucerase and Eptacog alfa activated recombinant coagulation factor VIIa drugs",
+      "gst_percent": 5,
       "keywords": [
-        "agalsidase beta, imiglucerase and eptacog alfa activated recombinant coagulation factor viia drugs"
-      ],
-      "gst_percent": 5
+        "agalsidase beta, imiglucerase and eptacog alfa activated recombinant coagulation factor viia drugs",
+        "agalsidase",
+        "beta",
+        "imiglucerase",
+        "and",
+        "eptacog",
+        "alfa",
+        "activated",
+        "recombinant",
+        "coagulation",
+        "factor",
+        "viia",
+        "drugs"
+      ]
     },
     {
       "item_category": "Drugs and medicines such as Faricimab, Pertuzumab, Fluticasone Furoate + Umeclidinium + Vilanterol FF/UMEC/VI, Ocrelizumab, and Brentuximab Vedotin",
+      "gst_percent": 12,
       "keywords": [
-        "drugs and medicines such as faricimab, pertuzumab, fluticasone furoate + umeclidinium + vilanterol ff/umec/vi, ocrelizumab, and brentuximab vedotin"
-      ],
-      "gst_percent": 12
+        "drugs and medicines such as faricimab, pertuzumab, fluticasone furoate + umeclidinium + vilanterol ff/umec/vi, ocrelizumab, and brentuximab vedotin",
+        "drugs",
+        "and",
+        "medicines",
+        "such",
+        "as",
+        "faricimab",
+        "pertuzumab",
+        "fluticasone",
+        "furoate",
+        "umeclidinium",
+        "vilanterol",
+        "ffumecvi",
+        "ocrelizumab",
+        "brentuximab",
+        "vedotin"
+      ]
     },
     {
       "item_category": "Automobiles",
+      "gst_percent": 1200,
       "keywords": [
-        "automobiles"
-      ],
-      "gst_percent": 1200
-    },
-    {
-      "item_category": "Diesel & Diesel Hybrid Cars (≤1500cc & ≤4000mm)",
-      "keywords": [
-        "diesel & diesel hybrid cars (≤1500cc & ≤4000mm)"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Three wheelers",
-      "keywords": [
-        "three wheelers"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Motorcycles (≤350cc)",
-      "keywords": [
-        "motorcycles (≤350cc)"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Motor Vehicles for the transport of goods",
-      "keywords": [
-        "motor vehicles for the transport of goods"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Pencils, Sharpeners, Crayons & Pastels",
-      "keywords": [
-        "pencils, sharpeners, crayons & pastels"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Exercise Books & Notebooks",
-      "keywords": [
-        "exercise books & notebooks"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Eraser",
-      "keywords": [
-        "eraser"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Television (above 32\") (inc. LED & LCD TVs)",
-      "keywords": [
-        "television (above 32\") (inc. led & lcd tvs)"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Monitors & Projectors",
-      "keywords": [
-        "monitors & projectors"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Dish Washing Machines",
-      "keywords": [
-        "Dish Washing Machines"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Aerated waters",
-      "keywords": [
-        "aerated waters"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Caffeinated beverages",
-      "keywords": [
-        "Caffeinated beverages"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Carbonated beverages of fruit drinks / with fruit juice",
-      "keywords": [
-        "Carbonated beverages of fruit drinks / with fruit juice"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Other non‑alcoholic beverages",
-      "keywords": [
-        "Other non‑alcoholic beverages"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Motor cars and larger hybrids (beyond small‑car thresholds)",
-      "keywords": [
-        "motor cars and larger hybrids (beyond small‑car thresholds)"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Motorcycles exceeding 350cc",
-      "keywords": [
-        "motorcycles exceeding 350cc"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Aircraft for personal use",
-      "keywords": [
-        "aircraft for personal use"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Yachts and vessels for pleasure/sports",
-      "keywords": [
-        "yachts and vessels for pleasure/sports"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Smoking pipes and cigarette/cigar holders",
-      "keywords": [
-        "smoking pipes and cigarette/cigar holders"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Revolvers & pistols",
-      "keywords": [
-        "revolvers & pistols"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Admission to casinos, race clubs, and sporting events like IPL",
-      "keywords": [
-        "admission to casinos, race clubs, and sporting events like ipl"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Licensing of bookmakers by race clubs",
-      "keywords": [
-        "licensing of bookmakers by race clubs"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Specified actionable claims (betting, casinos, gambling, horse racing, lottery, online money gaming)",
-      "keywords": [
-        "specified actionable claims (betting, casinos, gambling, horse racing, lottery, online money gaming)"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Leasing/rental without operator of goods attracting 40% GST",
-      "keywords": [
-        "leasing/rental without operator of goods attracting 40% gst"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Various papers/paperboards, other than exercise‑book paper",
-      "keywords": [
-        "various papers/paperboards, other than exercise‑book paper"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Textiles",
-      "keywords": [
-        "textiles"
-      ],
-      "gst_percent": 2
-    },
-    {
-      "item_category": "Quilted/cotton quilts and quilted products more than Rs.2,500 per piece",
-      "keywords": [
-        "quilted/cotton quilts and quilted products more than rs.2,500 per piece"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Printed maps, hydrographic charts, atlases, globes",
-      "keywords": [
-        "printed maps, hydrographic charts, atlases, globes"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Paratha, parotta, and other Indian breads",
-      "keywords": [
-        "Paratha, parotta, and other Indian breads"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Advanced biotechnological medicines (Onasemnogene, Mepolizumab, etc.)",
-      "keywords": [
-        "advanced biotechnological medicines (onasemnogene, mepolizumab, etc.)"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Other Proposals",
-      "keywords": [
-        "other proposals"
-      ],
-      "gst_percent": 19
-    },
-    {
-      "item_category": "Agriculture",
-      "keywords": [
-        "agriculture"
-      ],
-      "gst_percent": 1
-    },
-    {
-      "item_category": "Talcum powder and face powder",
-      "keywords": [
-        "talcum powder and face powder"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Gibberellic acid",
-      "keywords": [
-        "gibberellic acid"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Tractor tyres and tubes",
-      "keywords": [
-        "tractor tyres and tubes"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Malt and vegetable extracts",
-      "keywords": [
-        "Malt and vegetable extracts"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Footwear",
-      "keywords": [
-        "footwear"
-      ],
-      "gst_percent": 2500
-    },
-    {
-      "item_category": "Medical thermometers",
-      "keywords": [
-        "medical thermometers"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Job Work",
-      "keywords": [
-        "job work"
-      ],
-      "gst_percent": 48
-    },
-    {
-      "item_category": "Leather",
-      "keywords": [
-        "leather"
-      ],
-      "gst_percent": 4114
-    },
-    {
-      "item_category": "Hotel accommodation (value ≤ Rs 7500 per unit per day)",
-      "keywords": [
-        "hotel accommodation (value ≤ rs 7500 per unit per day)"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Beauty and physical well-being services (group 99972)",
-      "keywords": [
-        "beauty and physical well-being services (group 99972)"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Quilted textile products and made-up textiles with value up to 2500 rupees, articles of apparel and clothing accessories with value up to 2500 rupees",
-      "keywords": [
-        "quilted textile products and made-up textiles with value up to 2500 rupees, articles of apparel and clothing accessories with value up to 2500 rupees"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Synthetic filament tow, staple fibers, waste of manmade fibers",
-      "keywords": [
-        "synthetic filament tow, staple fibers, waste of manmade fibers"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Renting of goods carriage with operator with fuel cost included",
-      "keywords": [
-        "renting of goods carriage with operator with fuel cost included"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Multimodal transport of goods within India",
-      "keywords": [
-        "Multimodal transport of goods within India"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Local Delivery Services",
-      "keywords": [
-        "local delivery services"
-      ],
-      "gst_percent": 996813
-    },
-    {
-      "item_category": "Textile",
-      "keywords": [
-        "textile"
-      ],
-      "gst_percent": 2500
-    },
-    {
-      "item_category": "Pan masala",
-      "keywords": [
-        "pan masala"
-      ],
-      "gst_percent": 28
-    },
-    {
-      "item_category": "Miscellaneous Items",
-      "keywords": [
-        "miscellaneous items"
-      ],
-      "gst_percent": 9303
-    },
-    {
-      "item_category": "13/2025 dated 17th September 2025",
-      "keywords": [
-        "13/2025 dated 17th september 2025"
-      ],
-      "gst_percent": 2025
-    },
-    {
-      "item_category": "14/2025 dated 17th September 2025",
-      "keywords": [
-        "14/2025 dated 17th september 2025"
-      ],
-      "gst_percent": 54
-    },
-    {
-      "item_category": "Cancer drugs such as Trastuzumab Deruxtecan, Osimertinib and Durvalumab",
-      "keywords": [
-        "cancer drugs such as trastuzumab deruxtecan, osimertinib and durvalumab"
-      ],
-      "gst_percent": 9804
-    },
-    {
-      "item_category": "Namkeens and Extruded/Expanded Savoury food products",
-      "keywords": [
-        "Namkeens and Extruded/Expanded Savoury food products"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Car and Motor cycle seats",
-      "keywords": [
-        "car and motor cycle seats"
-      ],
-      "gst_percent": 9401
-    },
-    {
-      "item_category": "Transport of passengers by helicopters",
-      "keywords": [
-        "transport of passengers by helicopters"
-      ],
-      "gst_percent": 9964
-    },
-    {
-      "item_category": "Imports of parts, components, testing equipment, tools, and tool-kits of aircraft, irrespective of their HS classification, are used to boost the MRO activities subject to specified conditions.",
-      "keywords": [
-        "imports of parts, components, testing equipment, tools, and tool-kits of aircraft, irrespective of their hs classification, are used to boost the mro activities subject to specified conditions."
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Parts of Poultry keeping Machinery",
-      "keywords": [
-        "parts of poultry keeping machinery"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "All milk cans (different materials), irrespective of use",
-      "keywords": [
-        "All milk cans (different materials), irrespective of use"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "All carton boxes and cases of both corrugated and non-corrugated paper board",
-      "keywords": [
-        "all carton boxes and cases of both corrugated and non-corrugated paper board"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "All types of sprinklers, including fire water sprinklers",
-      "keywords": [
-        "all types of sprinklers, including fire water sprinklers"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "All solar cookers, whether or not single or dual energy source",
-      "keywords": [
-        "all solar cookers, whether or not single or dual energy source"
-      ],
-      "gst_percent": 12
-    },
-    {
-      "item_category": "Imports of specified items for defence forces",
-      "keywords": [
-        "imports of specified items for defence forces"
-      ],
-      "gst_percent": 30
-    },
-    {
-      "item_category": "Prepared food / Restaurant food",
-      "keywords": [
-        "biryani",
-        "pizza",
-        "burger",
-        "noodles",
-        "fried rice",
-        "broasted chicken",
-        "shawarma",
-        "sandwich",
-        "pasta",
-        "roll",
-        "thali",
-        "meals",
-        "restaurant food",
-        "tiffin",
-        "snacks"
-      ],
-      "gst_percent": 5
-    },
-    {
-      "item_category": "Beverages",
-      "keywords": [
-        "coke",
-        "pepsi",
-        "sprite",
-        "fanta",
-        "bottled water"
-      ],
-      "gst_percent": 18
-    },
-    {
-      "item_category": "Electronics",
-      "keywords": [
+        "automobiles",
         "mobile",
         "phone",
         "laptop",
+        "tv",
+        "tablet",
+        "headphones",
+        "charger"
+      ]
+    },
+    {
+      "item_category": "Diesel & Diesel Hybrid Cars (≤1500cc & ≤4000mm)",
+      "gst_percent": 28,
+      "keywords": [
+        "diesel & diesel hybrid cars (≤1500cc & ≤4000mm)",
+        "diesel",
+        "hybrid",
+        "cars",
+        "1500cc",
+        "4000mm"
+      ]
+    },
+    {
+      "item_category": "Three wheelers",
+      "gst_percent": 28,
+      "keywords": [
+        "three wheelers",
+        "three",
+        "wheelers"
+      ]
+    },
+    {
+      "item_category": "Motorcycles (≤350cc)",
+      "gst_percent": 28,
+      "keywords": [
+        "motorcycles (≤350cc)",
+        "motorcycles",
+        "350cc"
+      ]
+    },
+    {
+      "item_category": "Motor Vehicles for the transport of goods",
+      "gst_percent": 28,
+      "keywords": [
+        "motor vehicles for the transport of goods",
+        "motor",
+        "vehicles",
+        "for",
+        "the",
+        "transport",
+        "of",
+        "goods"
+      ]
+    },
+    {
+      "item_category": "Pencils, Sharpeners, Crayons & Pastels",
+      "gst_percent": 12,
+      "keywords": [
+        "pencils, sharpeners, crayons & pastels",
+        "pencils",
+        "sharpeners",
+        "crayons",
+        "pastels"
+      ]
+    },
+    {
+      "item_category": "Exercise Books & Notebooks",
+      "gst_percent": 12,
+      "keywords": [
+        "exercise books & notebooks",
+        "exercise",
+        "books",
+        "notebooks"
+      ]
+    },
+    {
+      "item_category": "Eraser",
+      "gst_percent": 5,
+      "keywords": [
+        "eraser"
+      ]
+    },
+    {
+      "item_category": "Television (above 32\") (inc. LED & LCD TVs)",
+      "gst_percent": 28,
+      "keywords": [
+        "television (above 32\") (inc. led & lcd tvs)",
         "television",
-        "tablet"
-      ],
-      "gst_percent": 18
+        "above",
+        "32",
+        "inc",
+        "led",
+        "lcd",
+        "tvs",
+        "mobile",
+        "phone",
+        "laptop",
+        "tv",
+        "tablet",
+        "headphones",
+        "charger"
+      ]
+    },
+    {
+      "item_category": "Monitors & Projectors",
+      "gst_percent": 28,
+      "keywords": [
+        "monitors & projectors",
+        "monitors",
+        "projectors"
+      ]
+    },
+    {
+      "item_category": "Dish Washing Machines",
+      "gst_percent": 28,
+      "keywords": [
+        "Dish Washing Machines",
+        "dish",
+        "washing",
+        "machines"
+      ]
+    },
+    {
+      "item_category": "Aerated waters",
+      "gst_percent": 28,
+      "keywords": [
+        "aerated waters",
+        "aerated",
+        "waters"
+      ]
+    },
+    {
+      "item_category": "Caffeinated beverages",
+      "gst_percent": 28,
+      "keywords": [
+        "Caffeinated beverages",
+        "caffeinated",
+        "beverages",
+        "tea",
+        "coffee",
+        "coke",
+        "pepsi",
+        "juice",
+        "milk",
+        "milkshake",
+        "smoothie",
+        "chocolate",
+        "vanilla"
+      ]
+    },
+    {
+      "item_category": "Carbonated beverages of fruit drinks / with fruit juice",
+      "gst_percent": 28,
+      "keywords": [
+        "Carbonated beverages of fruit drinks / with fruit juice",
+        "carbonated",
+        "beverages",
+        "of",
+        "fruit",
+        "drinks",
+        "with",
+        "juice",
+        "tea",
+        "coffee",
+        "coke",
+        "pepsi",
+        "milk",
+        "milkshake",
+        "smoothie",
+        "chocolate",
+        "vanilla"
+      ]
+    },
+    {
+      "item_category": "Other non‑alcoholic beverages",
+      "gst_percent": 18,
+      "keywords": [
+        "Other non‑alcoholic beverages",
+        "other",
+        "nonalcoholic",
+        "beverages",
+        "tea",
+        "coffee",
+        "coke",
+        "pepsi",
+        "juice",
+        "milk",
+        "milkshake",
+        "smoothie",
+        "chocolate",
+        "vanilla"
+      ]
+    },
+    {
+      "item_category": "Motor cars and larger hybrids (beyond small‑car thresholds)",
+      "gst_percent": 28,
+      "keywords": [
+        "motor cars and larger hybrids (beyond small‑car thresholds)",
+        "motor",
+        "cars",
+        "and",
+        "larger",
+        "hybrids",
+        "beyond",
+        "smallcar",
+        "thresholds"
+      ]
+    },
+    {
+      "item_category": "Motorcycles exceeding 350cc",
+      "gst_percent": 28,
+      "keywords": [
+        "motorcycles exceeding 350cc",
+        "motorcycles",
+        "exceeding",
+        "350cc"
+      ]
+    },
+    {
+      "item_category": "Aircraft for personal use",
+      "gst_percent": 28,
+      "keywords": [
+        "aircraft for personal use",
+        "aircraft",
+        "for",
+        "personal",
+        "use"
+      ]
+    },
+    {
+      "item_category": "Yachts and vessels for pleasure/sports",
+      "gst_percent": 28,
+      "keywords": [
+        "yachts and vessels for pleasure/sports",
+        "yachts",
+        "and",
+        "vessels",
+        "for",
+        "pleasuresports"
+      ]
+    },
+    {
+      "item_category": "Smoking pipes and cigarette/cigar holders",
+      "gst_percent": 28,
+      "keywords": [
+        "smoking pipes and cigarette/cigar holders",
+        "smoking",
+        "pipes",
+        "and",
+        "cigarettecigar",
+        "holders"
+      ]
+    },
+    {
+      "item_category": "Revolvers & pistols",
+      "gst_percent": 28,
+      "keywords": [
+        "revolvers & pistols",
+        "revolvers",
+        "pistols"
+      ]
+    },
+    {
+      "item_category": "Admission to casinos, race clubs, and sporting events like IPL",
+      "gst_percent": 28,
+      "keywords": [
+        "admission to casinos, race clubs, and sporting events like ipl",
+        "admission",
+        "to",
+        "casinos",
+        "race",
+        "clubs",
+        "and",
+        "sporting",
+        "events",
+        "like",
+        "ipl"
+      ]
+    },
+    {
+      "item_category": "Licensing of bookmakers by race clubs",
+      "gst_percent": 28,
+      "keywords": [
+        "licensing of bookmakers by race clubs",
+        "licensing",
+        "of",
+        "bookmakers",
+        "by",
+        "race",
+        "clubs"
+      ]
+    },
+    {
+      "item_category": "Specified actionable claims (betting, casinos, gambling, horse racing, lottery, online money gaming)",
+      "gst_percent": 28,
+      "keywords": [
+        "specified actionable claims (betting, casinos, gambling, horse racing, lottery, online money gaming)",
+        "specified",
+        "actionable",
+        "claims",
+        "betting",
+        "casinos",
+        "gambling",
+        "horse",
+        "racing",
+        "lottery",
+        "online",
+        "money",
+        "gaming"
+      ]
+    },
+    {
+      "item_category": "Leasing/rental without operator of goods attracting 40% GST",
+      "gst_percent": 28,
+      "keywords": [
+        "leasing/rental without operator of goods attracting 40% gst",
+        "leasingrental",
+        "without",
+        "operator",
+        "of",
+        "goods",
+        "attracting",
+        "40",
+        "gst"
+      ]
+    },
+    {
+      "item_category": "Various papers/paperboards, other than exercise‑book paper",
+      "gst_percent": 12,
+      "keywords": [
+        "various papers/paperboards, other than exercise‑book paper",
+        "various",
+        "paperspaperboards",
+        "other",
+        "than",
+        "exercisebook",
+        "paper"
+      ]
+    },
+    {
+      "item_category": "Textiles",
+      "gst_percent": 2,
+      "keywords": [
+        "textiles"
+      ]
+    },
+    {
+      "item_category": "Quilted/cotton quilts and quilted products more than Rs.2,500 per piece",
+      "gst_percent": 12,
+      "keywords": [
+        "quilted/cotton quilts and quilted products more than rs.2,500 per piece",
+        "quiltedcotton",
+        "quilts",
+        "and",
+        "quilted",
+        "products",
+        "more",
+        "than",
+        "rs2500",
+        "per",
+        "piece"
+      ]
+    },
+    {
+      "item_category": "Printed maps, hydrographic charts, atlases, globes",
+      "gst_percent": 12,
+      "keywords": [
+        "printed maps, hydrographic charts, atlases, globes",
+        "printed",
+        "maps",
+        "hydrographic",
+        "charts",
+        "atlases",
+        "globes"
+      ]
+    },
+    {
+      "item_category": "Paratha, parotta, and other Indian breads",
+      "gst_percent": 18,
+      "keywords": [
+        "Paratha, parotta, and other Indian breads",
+        "paratha",
+        "parotta",
+        "and",
+        "other",
+        "indian",
+        "breads"
+      ]
+    },
+    {
+      "item_category": "Advanced biotechnological medicines (Onasemnogene, Mepolizumab, etc.)",
+      "gst_percent": 12,
+      "keywords": [
+        "advanced biotechnological medicines (onasemnogene, mepolizumab, etc.)",
+        "advanced",
+        "biotechnological",
+        "medicines",
+        "onasemnogene",
+        "mepolizumab",
+        "etc"
+      ]
+    },
+    {
+      "item_category": "Other Proposals",
+      "gst_percent": 19,
+      "keywords": [
+        "other proposals",
+        "other",
+        "proposals"
+      ]
+    },
+    {
+      "item_category": "Agriculture",
+      "gst_percent": 1,
+      "keywords": [
+        "agriculture"
+      ]
+    },
+    {
+      "item_category": "Talcum powder and face powder",
+      "gst_percent": 18,
+      "keywords": [
+        "talcum powder and face powder",
+        "talcum",
+        "powder",
+        "and",
+        "face"
+      ]
+    },
+    {
+      "item_category": "Gibberellic acid",
+      "gst_percent": 12,
+      "keywords": [
+        "gibberellic acid",
+        "gibberellic",
+        "acid"
+      ]
+    },
+    {
+      "item_category": "Tractor tyres and tubes",
+      "gst_percent": 18,
+      "keywords": [
+        "tractor tyres and tubes",
+        "tractor",
+        "tyres",
+        "and",
+        "tubes"
+      ]
+    },
+    {
+      "item_category": "Malt and vegetable extracts",
+      "gst_percent": 18,
+      "keywords": [
+        "Malt and vegetable extracts",
+        "malt",
+        "and",
+        "vegetable",
+        "extracts"
+      ]
+    },
+    {
+      "item_category": "Footwear",
+      "gst_percent": 2500,
+      "keywords": [
+        "footwear"
+      ]
+    },
+    {
+      "item_category": "Medical thermometers",
+      "gst_percent": 18,
+      "keywords": [
+        "medical thermometers",
+        "medical",
+        "thermometers"
+      ]
+    },
+    {
+      "item_category": "Job Work",
+      "gst_percent": 48,
+      "keywords": [
+        "job work",
+        "job",
+        "work"
+      ]
+    },
+    {
+      "item_category": "Leather",
+      "gst_percent": 4114,
+      "keywords": [
+        "leather"
+      ]
+    },
+    {
+      "item_category": "Hotel accommodation (value ≤ Rs 7500 per unit per day)",
+      "gst_percent": 12,
+      "keywords": [
+        "hotel accommodation (value ≤ rs 7500 per unit per day)",
+        "hotel",
+        "accommodation",
+        "value",
+        "rs",
+        "7500",
+        "per",
+        "unit",
+        "day"
+      ]
+    },
+    {
+      "item_category": "Beauty and physical well-being services (group 99972)",
+      "gst_percent": 18,
+      "keywords": [
+        "beauty and physical well-being services (group 99972)",
+        "beauty",
+        "and",
+        "physical",
+        "wellbeing",
+        "services",
+        "group",
+        "99972"
+      ]
+    },
+    {
+      "item_category": "Quilted textile products and made-up textiles with value up to 2500 rupees, articles of apparel and clothing accessories with value up to 2500 rupees",
+      "gst_percent": 5,
+      "keywords": [
+        "quilted textile products and made-up textiles with value up to 2500 rupees, articles of apparel and clothing accessories with value up to 2500 rupees",
+        "quilted",
+        "textile",
+        "products",
+        "and",
+        "madeup",
+        "textiles",
+        "with",
+        "value",
+        "up",
+        "to",
+        "2500",
+        "rupees",
+        "articles",
+        "of",
+        "apparel",
+        "clothing",
+        "accessories"
+      ]
+    },
+    {
+      "item_category": "Synthetic filament tow, staple fibers, waste of manmade fibers",
+      "gst_percent": 18,
+      "keywords": [
+        "synthetic filament tow, staple fibers, waste of manmade fibers",
+        "synthetic",
+        "filament",
+        "tow",
+        "staple",
+        "fibers",
+        "waste",
+        "of",
+        "manmade"
+      ]
+    },
+    {
+      "item_category": "Renting of goods carriage with operator with fuel cost included",
+      "gst_percent": 12,
+      "keywords": [
+        "renting of goods carriage with operator with fuel cost included",
+        "renting",
+        "of",
+        "goods",
+        "carriage",
+        "with",
+        "operator",
+        "fuel",
+        "cost",
+        "included"
+      ]
+    },
+    {
+      "item_category": "Multimodal transport of goods within India",
+      "gst_percent": 12,
+      "keywords": [
+        "Multimodal transport of goods within India",
+        "multimodal",
+        "transport",
+        "of",
+        "goods",
+        "within",
+        "india"
+      ]
+    },
+    {
+      "item_category": "Footwear",
+      "gst_percent": 2500,
+      "keywords": [
+        "footwear"
+      ]
+    },
+    {
+      "item_category": "Local Delivery Services",
+      "gst_percent": 996813,
+      "keywords": [
+        "local delivery services",
+        "local",
+        "delivery",
+        "services"
+      ]
+    },
+    {
+      "item_category": "Textile",
+      "gst_percent": 2500,
+      "keywords": [
+        "textile"
+      ]
+    },
+    {
+      "item_category": "Pan masala",
+      "gst_percent": 28,
+      "keywords": [
+        "pan masala",
+        "pan",
+        "masala"
+      ]
+    },
+    {
+      "item_category": "Miscellaneous Items",
+      "gst_percent": 9303,
+      "keywords": [
+        "miscellaneous items",
+        "miscellaneous",
+        "items"
+      ]
+    },
+    {
+      "item_category": "13/2025 dated 17th September 2025",
+      "gst_percent": 2025,
+      "keywords": [
+        "13/2025 dated 17th september 2025",
+        "132025",
+        "dated",
+        "17th",
+        "september",
+        "2025"
+      ]
+    },
+    {
+      "item_category": "14/2025 dated 17th September 2025",
+      "gst_percent": 54,
+      "keywords": [
+        "14/2025 dated 17th september 2025",
+        "142025",
+        "dated",
+        "17th",
+        "september",
+        "2025"
+      ]
+    },
+    {
+      "item_category": "4",
+      "gst_percent": 50,
+      "keywords": [
+        "4"
+      ]
+    },
+    {
+      "item_category": "Cancer drugs such as Trastuzumab Deruxtecan, Osimertinib and Durvalumab",
+      "gst_percent": 9804,
+      "keywords": [
+        "cancer drugs such as trastuzumab deruxtecan, osimertinib and durvalumab",
+        "cancer",
+        "drugs",
+        "such",
+        "as",
+        "trastuzumab",
+        "deruxtecan",
+        "osimertinib",
+        "and",
+        "durvalumab"
+      ]
+    },
+    {
+      "item_category": "Namkeens and Extruded/Expanded Savoury food products",
+      "gst_percent": 19059030,
+      "keywords": [
+        "Namkeens and Extruded/Expanded Savoury food products",
+        "namkeens",
+        "and",
+        "extrudedexpanded",
+        "savoury",
+        "food",
+        "products",
+        "pizza",
+        "burger",
+        "biryani",
+        "cake",
+        "bread",
+        "chicken",
+        "dal",
+        "rice",
+        "milkshake",
+        "chocolate",
+        "vanilla",
+        "strawberry",
+        "smoothie"
+      ]
+    },
+    {
+      "item_category": "Car and Motor cycle seats",
+      "gst_percent": 9401,
+      "keywords": [
+        "car and motor cycle seats",
+        "car",
+        "and",
+        "motor",
+        "cycle",
+        "seats"
+      ]
+    },
+    {
+      "item_category": "Transport of passengers by helicopters",
+      "gst_percent": 9964,
+      "keywords": [
+        "transport of passengers by helicopters",
+        "transport",
+        "of",
+        "passengers",
+        "by",
+        "helicopters"
+      ]
+    },
+    {
+      "item_category": "Imports of parts, components, testing equipment, tools, and tool-kits of aircraft, irrespective of their HS classification, are used to boost the MRO activities subject to specified conditions.",
+      "gst_percent": 5,
+      "keywords": [
+        "imports of parts, components, testing equipment, tools, and tool-kits of aircraft, irrespective of their hs classification, are used to boost the mro activities subject to specified conditions.",
+        "imports",
+        "of",
+        "parts",
+        "components",
+        "testing",
+        "equipment",
+        "tools",
+        "and",
+        "toolkits",
+        "aircraft",
+        "irrespective",
+        "their",
+        "hs",
+        "classification",
+        "are",
+        "used",
+        "to",
+        "boost",
+        "the",
+        "mro",
+        "activities",
+        "subject",
+        "specified",
+        "conditions"
+      ]
+    },
+    {
+      "item_category": "Parts of Poultry keeping Machinery",
+      "gst_percent": 12,
+      "keywords": [
+        "parts of poultry keeping machinery",
+        "parts",
+        "of",
+        "poultry",
+        "keeping",
+        "machinery"
+      ]
+    },
+    {
+      "item_category": "All milk cans (different materials), irrespective of use",
+      "gst_percent": 12,
+      "keywords": [
+        "All milk cans (different materials), irrespective of use",
+        "all",
+        "milk",
+        "cans",
+        "different",
+        "materials",
+        "irrespective",
+        "of",
+        "use",
+        "pizza",
+        "burger",
+        "biryani",
+        "cake",
+        "bread",
+        "chicken",
+        "dal",
+        "rice",
+        "milkshake",
+        "chocolate",
+        "vanilla",
+        "strawberry",
+        "smoothie"
+      ]
+    },
+    {
+      "item_category": "All carton boxes and cases of both corrugated and non-corrugated paper board",
+      "gst_percent": 12,
+      "keywords": [
+        "all carton boxes and cases of both corrugated and non-corrugated paper board",
+        "all",
+        "carton",
+        "boxes",
+        "and",
+        "cases",
+        "of",
+        "both",
+        "corrugated",
+        "noncorrugated",
+        "paper",
+        "board"
+      ]
+    },
+    {
+      "item_category": "All types of sprinklers, including fire water sprinklers",
+      "gst_percent": 12,
+      "keywords": [
+        "all types of sprinklers, including fire water sprinklers",
+        "all",
+        "types",
+        "of",
+        "sprinklers",
+        "including",
+        "fire",
+        "water"
+      ]
+    },
+    {
+      "item_category": "All solar cookers, whether or not single or dual energy source",
+      "gst_percent": 12,
+      "keywords": [
+        "all solar cookers, whether or not single or dual energy source",
+        "all",
+        "solar",
+        "cookers",
+        "whether",
+        "or",
+        "not",
+        "single",
+        "dual",
+        "energy",
+        "source"
+      ]
+    },
+    {
+      "item_category": "Imports of specified items for defence forces",
+      "gst_percent": 30,
+      "keywords": [
+        "imports of specified items for defence forces",
+        "imports",
+        "of",
+        "specified",
+        "items",
+        "for",
+        "defence",
+        "forces"
+      ]
     }
   ]
 }

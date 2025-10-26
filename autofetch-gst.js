@@ -50,7 +50,16 @@ const aiKeywordMap = {
   default: [],
 };
 
-// Map category name to AI keyword bucket
+// Luxury / sin goods cess mapping
+function getCessPercent(category) {
+  const lower = category.toLowerCase();
+  if (/luxury car|suv|high-end vehicle/.test(lower)) return 15;
+  if (/tobacco|cigarette|cigar/.test(lower)) return 12;
+  if (/aerated beverage|cola|soda|fanta|pepsi|coke/.test(lower)) return 12;
+  return 0;
+}
+
+// Map category name to AI keywords
 function mapCategoryToAIKeywords(category) {
   const lower = category.toLowerCase();
   if (/food|butter|cheese|milk|spreads|snack|cooked|restaurant/.test(lower))
@@ -65,7 +74,7 @@ function mapCategoryToAIKeywords(category) {
   return aiKeywordMap.default;
 }
 
-// Load previous JSON if exists
+// Load previous JSON
 function loadPreviousData() {
   if (fs.existsSync(OUTPUT_FILE)) {
     return JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf-8")).items || [];
@@ -95,8 +104,9 @@ async function fetchGSTFromClearTax() {
         if (!gstPercentMatch) return;
 
         const gst_percent = parseInt(gstPercentMatch[0], 10);
+        const cess_percent = getCessPercent(category);
 
-        data.push({ item_category: category, gst_percent });
+        data.push({ item_category: category, gst_percent, cess_percent });
       });
   });
   return data;
@@ -107,7 +117,6 @@ function enrichKeywordsSelfLearning(fetchedData, existingItems) {
   const updatedItems = [];
 
   for (const item of fetchedData) {
-    // Check if item already exists in previous data
     const existing = existingItems.find(
       (e) => e.item_category.toLowerCase() === item.item_category.toLowerCase()
     );
@@ -133,6 +142,7 @@ function enrichKeywordsSelfLearning(fetchedData, existingItems) {
     updatedItems.push({
       item_category: item.item_category,
       gst_percent: item.gst_percent,
+      cess_percent: item.cess_percent,
       keywords,
     });
   }
@@ -160,7 +170,7 @@ async function main() {
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(finalData, null, 2));
 
   console.log(
-    `💾 GST data saved to ${OUTPUT_FILE} with self-learning keywords.`
+    `💾 GST data saved to ${OUTPUT_FILE} with self-learning keywords and cess.`
   );
 }
 
