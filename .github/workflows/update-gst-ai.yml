@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Run GST AI keyword generator
-        run: node gst-ai-keywords.js
+        run: node autofetch-gst.js
 
       - name: Commit and push changes
         run: |
