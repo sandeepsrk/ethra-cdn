@@ -97,7 +97,7 @@ async function fetchGSTFromClearTax() {
         if (cols.length < 2) return;
 
         const category = $(cols[0]).text().trim();
-        const rateText = $(cols[1]).text().trim();
+        const rateText = $(cols[2]).text().trim();
         if (!category) return;
 
         const gstPercentMatch = rateText.match(/\d+/);
